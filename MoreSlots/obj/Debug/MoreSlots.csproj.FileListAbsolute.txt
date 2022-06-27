@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\bin\Debug\MoreSlots.exe.config
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\bin\Debug\MoreSlots.exe
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\bin\Debug\MoreSlots.pdb
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.exe
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.pdb
+C:\Users\Administrator\source\repos\MoreSlots\MoreSlots\obj\Debug\MoreSlots.mainWin.resources
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\bin\Debug\MoreSlots.exe.config
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\bin\Debug\MoreSlots.exe
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\bin\Debug\MoreSlots.pdb
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.MainWin.resources
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.exe
+C:\Users\Administrator\source\repos\MoreSlots v0.6\MoreSlots\obj\Debug\MoreSlots.pdb
